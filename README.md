@@ -10,11 +10,8 @@ The leadership styles were embodied by a robot leader during a collaborative tow
 The robot's leadership style was manipulated through its communication style, including time reminders, instructions, motivational statements, and responses to team dynamics. The study examined how contrasting leadership styles affect human-robot team interactions and leadership effectiveness.
 
 ## 📁 Repository Contents:
-Darktriad/main 
-# Robot behavior and dialogue control script for Dark Triad leadership
+Darktriad/main: Robot behavior and dialogue control script for Dark Triad leadership
 
-Lighttriad/main 
-# Robot behavior and dialogue control script for Light Triad leadership
+Lighttriad/main: Robot behavior and dialogue control script for Light Triad leadership
 
-HRI2026_Submission1985_Appendix - Copy 
-# Annotated scripts showing how dialogue and behaviors embody Dark or Light Triad traits
+HRI2026_Submission1985_Appendix - Copy: Annotated scripts showing how dialogue and behaviors embody Dark or Light Triad traits

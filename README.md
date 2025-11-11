@@ -1,5 +1,17 @@
 # Dark-and-Light-triad-robot-leader
 
-This repository contains the code for two distinct leadership scripts designed for a robot leader in a human-robot interaction experiment. The scripts are programmed to exhibit two contrasting leadership styles: one reflecting dark triad traits (Machiavellianism, narcissism, and psychopathy) and the other demonstrating light triad traits (humanism, Kantianism, and faith in humanity).
+This repository contains the code and supporting materials for a research study investigating how leadership styles influence dynamics within human-robot teams. The project explored two contrasting leadership styles: 
 
-The scripts control the robot's behavior and communication style during a collaborative tower-building task, including time reminders, motivational statements, and responses to team dynamics. The leadership styles aim to assess how personality traits influence participants' perceptions, task engagement, and performance. These scripts were a part of the experimental setup for studying human-robot team interactions and leadership effectiveness.
+- **Dark Triad** (reflecting Machiavellianism, narcissism, and psychopathy)
+- **Light Triad** (reflecting humanism, Kantianism and faith in humanity)
+
+The leadership styles were embodied by a robot leader during a collaborative tower-building task. 
+
+The robot's leadership style was manipulated through its communication style, including time reminders, instructions, motivational statements, and responses to team dynamics. The study examined how contrasting leadership styles affect human-robot team interactions and leadership effectiveness.
+
+## 📁 Repository Contents:
+darktriad/main # Robot behavior and dialogue control script for Dark Triad leadership
+
+/lighttriad/main # Robot behavior and dialogue control script for Light Triad leadership
+
+HRI2026_Submission1985_Appendix - Copy # Annotated scripts showing how dialogue and behaviors embody Dark or Light Triad traits
